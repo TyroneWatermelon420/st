@@ -1,4 +1,4 @@
-static char *font = "mono:pixelsize=14:antialias=true:autohint=true";
+static char *font = /*"CaskaydiaCove Nerd Font M*/"mono:style=Regular:pixelsize=14:antialias=true:autohint=true";
 static char *font2[] = { "NotoColorEmoji:pixelsize=10:antialias=true:autohint=true" };
 static int borderpx = 2;
 
@@ -86,6 +86,9 @@ char *termname = "st";
  *	stty tabs
  */
 unsigned int tabspaces = 8;
+
+/* bg opacity */
+float alpha = 0.8;
 
 typedef struct {
 	const char* const colors[258]; /* terminal colors */
