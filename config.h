@@ -2,7 +2,7 @@
 //static int borderpx = 2;
 
 static char *font = /*"CaskaydiaCove Nerd Font M*/"mono:style=Regular:pixelsize=14:antialias=true:autohint=true";
-static char *font2[] = { "NotoColorEmoji:pixelsize=10:antialias=true:autohint=true" };
+static char *font2[] = { "NotoColorEmoji:pixelsize=14:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
