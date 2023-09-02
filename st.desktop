@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=st
+Comment=simple terminal
+Exec=st
+Icon=st
